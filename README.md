@@ -1,6 +1,7 @@
 # -IT105-FinalGroupProject--SQLSurvivors--2a
 ## Inventory & Sales Management System
 
+
 👥 Team Members & Roles
 | Name | Role | Primary Responsibility |
 | Angela Sofia A. Salimpade | Project Manager | Team soordinator, Manages repo, merges branches, milestone tracking |
