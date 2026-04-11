@@ -3,7 +3,11 @@
 
 
 👥 Team Members & Roles
+
+
 | Name | Role | Primary Responsibility |
+
+
 | Angela Sofia A. Salimpade | Project Manager | Team soordinator, Manages repo, merges branches, milestone tracking |
 | James Bryan Llagas | DBA | Schema design, normalization, constraints |
 | Mark James Bermido | SQL Developer | SQL Scripting & ERD Design, Complex queries, transactions, triggers|
