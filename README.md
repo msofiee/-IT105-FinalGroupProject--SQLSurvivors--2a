@@ -19,5 +19,4 @@
 
 
 👨‍🏫 Instructor Information
-Instructor: Sir Red
-GitHub Profile: [guired513](https://github.com/guired513)
+Instructor: Sir Guillermo V. Red, Jr
