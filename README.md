@@ -1,8 +1,17 @@
-# -IT105-FinalGroupProject--SQLSurvivors--2a
-## Inventory & Sales Management System
+Project Identity
+Project Title: Inventory & Sales Management System
 
+Course Code: IT105 (Database Management Systems 1)
 
-👥 Team Members & Roles
+Section: 2a
+
+Group Name: SQLSurvivors
+
+Our System is a relational database designed to integrate warehouse inventory control with retail sales tracking. It focuses on maintaining 3rd Normal Form (3NF) integrity to ensure data accuracy across six core tables: Suppliers, Categories, Customers, Products, Sales, and Sales_Items.
+
+Development Team
+
+👥 Team Members, Roles & responsibilities
 
 
 | Name | Role | Primary Responsibility |
